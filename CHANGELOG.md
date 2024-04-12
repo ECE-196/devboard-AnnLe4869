@@ -1,11 +1,11 @@
 # CHANGELOG
 
-## {DATE}
+## 04/11/2024
 ### Contributors
-...
+Anh Le
 
 ### Added
-...
+submission.jpg
 
 ### Changed
 ...
